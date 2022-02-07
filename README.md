@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **salgado.luis1405s@gmail.com**
 
-- 💬 If you need help ask me about **Flutter💙**
+- 💬 If you need help with **Flutter💙**, don't hesitate to ask me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
