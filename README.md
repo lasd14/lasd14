@@ -7,7 +7,7 @@
 
 - 📝 I regularly (Not so regularly) write articles on [https://medium.com/@lasd14](https://medium.com/@lasd14)
 
-- 📫 How to reach me **salgado.luis1405s@gmail.com**
+- 📫 How to reach me **ls140511@gmail.com**
 
 - 💬 If you need help with **Flutter💙**, don't hesitate to ask me.
 
