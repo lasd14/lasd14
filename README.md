@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👻, I'm Luis Salgado</h1>
-<h3 align="left">A Flutter Junior Developer 💙 focused on frontend with skills in UX Design. My favorite hobbies include going to the cinema, listening podcast of mysteries and general topics, listening to all kinds of music, watching some Twitch, and playing video games.</h3>
+<h3 align="left">A Flutter Junior Developer 💙 focused on frontend with skills in UX/UI Design. My favorite hobbies include going to the cinema, listening podcast of mysteries and general topics, listening to all kinds of music, watching some Twitch, and playing video games.</h3>
 
-- 📚 I’m currently learning **Flutter💙, Node JS💚, Python🐍 and English📖**
+- 📚 I’m currently learning **Flutter💙, React⚛, Node JS💚, Python🐍 and English📖**
 
 - 🤝🏻 I’m looking to collaborate on **Open Source Projects**
 
 - 📝 I regularly (Not so regularly) write articles on [https://medium.com/@lasd14](https://medium.com/@lasd14)
 
-- 📫 How to reach me **ls140511@gmail.com**
+- 📫 How to reach me **salgado.luis1405s@gmail.com**
 
 - 💬 If you need help with **Flutter💙**, don't hesitate to ask me.
 
