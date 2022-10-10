@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👻, I'm Luis Salgado</h1>
-<h3 align="left">A Flutter Junior Developer 💙 focused on frontend with skills in UX/UI Design. My favorite hobbies include going to the cinema, listening podcast of mysteries and general topics, listening to all kinds of music, watching some Twitch, and playing video games.</h3>
+<h3 align="left">A Flutter Developer 💙 focused on frontend with skills in UX/UI Design. My favorite hobbies include going to the cinema, listening podcast of mysteries and general topics, listening to all kinds of music, watching some Twitch, and playing video games.</h3>
 
 - 📚 I’m currently learning **Flutter💙, React⚛, Node JS💚, Python🐍 and English📖**
 
